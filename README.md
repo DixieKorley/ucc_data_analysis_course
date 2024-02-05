@@ -3,7 +3,7 @@ This is an introductary course for covering data analysis. There are four units 
 ***
 ## UNITS
 
-#### [Unit 1](/Intro to Data Analysis)
+#### [Unit 1](/intro_to_data_analysis/unit_1.md)
 - First we discuss what data is and why one might be asked to analyze it.
 - Next we discuss where to find existing data.
 - Third we talk about methods of collecting data if you choose to conduct your own experiments or distribute your own questionnaires.
