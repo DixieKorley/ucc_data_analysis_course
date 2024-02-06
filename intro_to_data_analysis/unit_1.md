@@ -56,7 +56,10 @@ When data scientist go through these steps, they ask the right questions - speci
 #### Sources
 - A simple strategy for asking your data the right questions
 - How do data scientists ask the right questions?
+- Chapter 1 - Analyzing data and making decisions 
 
+Printed sources (not required)
+- [Analyzing data and making decisions](https://www.amazon.com/Analyzing-Data-Making-Decisions-Statistics/dp/0132844729/ref=sr_1_1?crid=1F5V3UZW6GA0P&keywords=Analyzing+Data+%26Making+Decisions%3A+Statistics+for+Business&qid=1707234248&s=books&sprefix=analyzing+data+%26making+decisions+statistics+for+business%2Cstripbooks%2C326&sr=1-1)
 ### Presentation
 ### Quiz
 ### Notes
