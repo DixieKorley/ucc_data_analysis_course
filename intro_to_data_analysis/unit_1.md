@@ -1,14 +1,22 @@
 # Unit 1
 
-## Topics
+# Topics
 1. Understanding Data
 2. Sources of Data
 3. Methods of Collecting Data
 4. Quantitative versus Qualitative Data
-
+   
+**Template for each topic covered:**
+```
+### Reading
+### Presentation
+### Quiz
+### Notes
+```
+# Understanding Data
 ### Reading
 
-#### Overview
+#### Overview -
 _A problem well defined is a problem half-solved_
 - Data turns into information. Data by itself is not enough for you to make a conclusion about a topic.
 - So you need data analysis in order to transform data into information.
@@ -16,9 +24,22 @@ _A problem well defined is a problem half-solved_
 - In order to perform your data analysis, you have to know the four dimensions. 
 
 #### Ask the right questions
-Source - A simple strategy for asking your data the right questions
+**Sources**
+A simple strategy for asking your data the right questions
+How do data scientists ask the right questions?
 
 - The goal for any company or organization is to use data for insights or information.
+- You ask questions in data analysis by using the data science life cycle. Data scientists use life science scientific method to explore their data.
+
+This is the data science process...
+1. Ask an interesting question
+2. Get the data
+3. Explore the data
+4. Model the data
+5. Then communicate and visualize results
+Source - How do data scientists ask the right questions?
+
+When data scientist go through these steps, they ask the right questions - specific, not general. 
 
 Insights can include questions like:
 - Which of the customer segments is profitable?
