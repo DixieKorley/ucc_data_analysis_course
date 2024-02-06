@@ -9,13 +9,15 @@
 ### Reading
 
 #### Overview
+_A problem well defined is a problem half-solved_
 - Data turns into information. Data by itself is not enough for you to make a conclusion about a topic.
 - So you need data analysis in order to transform data into information.
 - Once you get your information, you can use the information to decisions and gain knowledge.
 - In order to perform your data analysis, you have to know the four dimensions. 
 
 #### Ask the right questions
-Source - Reading 1
+Source - A simple strategy for asking your data the right questions
+
 - The goal for any company or organization is to use data for insights or information.
 
 Insights can include questions like:
@@ -34,7 +36,6 @@ Problem: A key challenge or issue your audience wants to solve. Understand what 
 Outcome: A strategic goal or result your audience wants to achieve. Figure out the outcome your audience wants after solving the problem with the information. 
 Actions: The key activities your audience has started to fix the problem or get the outcome they want.
 Measures: The key metrics and other data used to highlight the problem, monitor the performance of initiatives and define when the outcome is successful. 
-
 
 ### Presentation
 ### Quiz
