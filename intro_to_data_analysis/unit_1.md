@@ -18,7 +18,7 @@
 
 #### Overview
 _A problem well defined is a problem half-solved_
-Data turns into information. Data by itself is not enough for you to make a conclusion about a topic. So you need data analysis in order to transform data into information. Once you get your information, you can use the information to decisions and gain knowledge. In order to perform your data analysis, you have to know the four dimensions. 
+Data turns into information. Data by itself is not enough for you to make a conclusion about a topic. So you need data analysis in order to transform data into information. Once you get your information, you can use the information to make decisions and gain knowledge. In order to perform your data analysis, you can use the four dimensions mentioned below. But first...
 
 #### Ask the right questions
 _What is the goal for a company?_
@@ -30,19 +30,21 @@ _Insights can include questions like:_
 - Which features of flagship product are not being used enough or need to be improved on?
 - Which of the best employees are flight risks?
 
-When businesses seek insights, they have to keep in mind that they may have limited resources when exploring so they need to ask the right questions. 
+When businesses seek insights, they have to keep in mind that they may have limited resources when exploring, so they need to ask the right questions. 
 
 #### Businesses need a plan
-First, understand the audience's needs and/or clarify your needs.
+Make sure to understand the audience's needs and/or clarify your needs.
 
-_This is the 4D framework for getting a plan before the data analysis workflow..._
+_This is the 4D framework for getting a plan before you perform the data analysis workflow..._
 - **Problem:** A key challenge or issue your audience wants to solve. Understand what insights/information the audience wants. igure out what problem your audience wants to solve with that information. The more you understand, the less time you spent aimlessly exploring the data. 
 - **Outcome:** A strategic goal or result your audience wants to achieve. Figure out the outcome your audience wants after solving the problem with the information. 
 - **Actions:** The key activities your audience has started to fix the problem or get the outcome they want.
 - **Measures:** The key metrics and other data used to highlight the problem, monitor the performance of initiatives and define when the outcome is successful. 
 
+To get a better idea of turning data into information, let's take a look at the data science process. 
+
 #### What is the data science process?
-- You ask questions in data analysis by using the data science life cycle. Data scientists use life science scientific method to explore their data.
+- Data scientists use life sciences scientific method to explore their data.
 
 **This is the data science process...**
 1. Ask an interesting question
@@ -51,15 +53,12 @@ _This is the 4D framework for getting a plan before the data analysis workflow..
 4. Model the data
 5. Then communicate and visualize results
 Source - How do data scientists ask the right questions?
-When data scientist go through these steps, they ask the right questions - specific, not general.
+- When data scientist go through these steps, they ask the right questions - the right questions must be specific, not general.
 
 #### Sources
 - A simple strategy for asking your data the right questions
 - How do data scientists ask the right questions?
-- Chapter 1 - Analyzing data and making decisions 
 
-Printed sources (not required)
-- [Analyzing data and making decisions](https://www.amazon.com/Analyzing-Data-Making-Decisions-Statistics/dp/0132844729/ref=sr_1_1?crid=1F5V3UZW6GA0P&keywords=Analyzing+Data+%26Making+Decisions%3A+Statistics+for+Business&qid=1707234248&s=books&sprefix=analyzing+data+%26making+decisions+statistics+for+business%2Cstripbooks%2C326&sr=1-1)
 ### Presentation
 ### Quiz
 ### Notes
