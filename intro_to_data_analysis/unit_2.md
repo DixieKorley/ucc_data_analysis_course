@@ -1,3 +1,23 @@
+# Unit 1
+
+# Topics
+- [x] Understanding Data
+- [x] Sources of Data
+- [ ] Methods of Collecting Data
+- [ ] Quantitative versus Qualitative Data
+   
+**Template for each topic covered:**
+```
+### Reading
+### Presentation
+### Quiz
+### Notes
+```
+# Sources of data
+### Reading
+### Presentation
+### Quiz
+### Notes
 
 
 - Chapter 1 - Analyzing data and making decisions 
