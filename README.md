@@ -19,7 +19,7 @@ This is an introductary course for covering data analysis. There are four units 
 ***
 ## Goals
 [UCC Data Analysis Certificate](https://www.yougotclass.org/certificate/how-it-works.cfm//Ucc/Certificate-in-Data-Analysis)
-- [ ] Intro to Data Analysis
+- [ ] [Intro to Data Analysis](https://ugotclass.org/View/outer-welcome.cfm)
 - [ ] Advanced Data Analysis
 - [ ] Intermediate Data Analysis
 

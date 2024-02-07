@@ -1,4 +1,4 @@
-# Unit 1
+# Unit 1 - Understanding Data
 
 # Topics
 - [x] Understanding Data
