@@ -63,7 +63,6 @@ Guidelines for writing questions
 8. Revise and rewrite questions
 9. Always assume the number of respondents will misread or ignore your directions or leave some questions unanswered.
 
-
 ### Presentation
 ### Quiz
 ### Notes
@@ -78,6 +77,5 @@ Guidelines for writing questions
 - Chapter 1 - Analyzing data and making decisions - Pages 5-12
 Managing Information: Core Management survey methods - 128-129
 
-Sources (not required)
 
  
