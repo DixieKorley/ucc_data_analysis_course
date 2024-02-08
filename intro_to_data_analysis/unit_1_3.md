@@ -41,6 +41,28 @@ _Types of statistical sampling for e.g.:_
 - cluster sampling
 Simple random sampling, a type of statistical sampling just makes sure that every type of subject is chosen.You do that first by getting a list, called a frame. The frame is a list of elements in the population. It's too tedious to do by hand, so we use computer generation software to do it.
 
+**Survey methods** are methods of collecting primary data, the main types are observation, experimentation and questioning.
+
+Observing is measuring an output by watching a process and/or people. The observer gets information up front and does not rely on what subjects say. It is best for the observer to not let subjects know they are being watched. Observation is a popular way of collecting data.
+
+Experimentation is setting up tests (food, drug, etc) and/or using subjects to test in order to determine their reaction.
+
+Questioning is performing surveys or asking the same questions to all subjects, can be performed in face to face interviews, questionnaires, etc. They can be closed or open
+
+Closed is easy to answer, can only respond a type of answer - like a multiple choice
+Open is not easy to answer, and is difficult to analyze - like an open ended question
+
+Guidelines for writing questions
+1. Write simply and clearly
+2. Ask one question at a time
+3. Do not use too many options for multiple choice questions
+4. Check that the questions are in the right order
+5. Write an intro and set of directions for the respondents
+6. Thank your respondents
+7. Pilot the questionnaire
+8. Revise and rewrite questions
+9. Always assume the number of respondents will misread or ignore your directions or leave some questions unanswered.
+
 
 ### Presentation
 ### Quiz
