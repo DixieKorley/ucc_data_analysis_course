@@ -40,6 +40,8 @@ Quantitative research is used to measure and predict, leading to a final course 
 
 Use when you need to measure awareness, offer statistical validation, determine most desirable product concept, determine most effective price point or measure satisfacton
 
+
+
 ### Presentation
 ### Quiz
 ### Notes
@@ -54,6 +56,7 @@ Use when you need to measure awareness, offer statistical validation, determine 
 - YouTube videos 
 - [Quantitative vs Qualitative](https://www.youtube.com/watch?v=EcKrT_IegoU)
 - [Quantitative vs Qualitative Research](https://youtu.be/638W_s5tRq8)
+- [Qualitative, Quantitative, Research Measures and Mixed Methodology](http://yourbusiness.azcentral.com/quantitative-qualitative-datacollection-methods-13608.html)
 
 
  
