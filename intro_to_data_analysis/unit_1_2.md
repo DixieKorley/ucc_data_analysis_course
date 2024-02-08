@@ -37,13 +37,6 @@ _Examples of information sources for secondary data can be found on page 4 of An
 ### Quiz
 ### Notes
 
-### Optional
-1. Suppose you wanted to collect primary data about the music preferences of students at your school. How would you go about collecting it? What problems would you anticipate, and how would you solve them?
-2. If you were trying to control quality at your bicycle manufacturing plant, what primary and secondary data could you use?
-3. You are working in the bicycle manufacturing industry. You are interested in trends in household spending on bicycles and accessories. Find a secondary data source for this information.
-4.  Do  you  think  data  provided  by  government  sources such as Statistics Canada are completely accurate and reliable?  Do  some  research  to  see  if  your  answer  is correct.
-5.  Choose a Canadian industry of interest to you. Try to come up with three sources of  secondary data about the industry.
-
 
 **Sources**
 - [Chapter 1 - Analyzing data and making decisions - Pages 1-4](http://www.pearsoned.ca/highered/showcase/skuce/samplechapters.html)
