@@ -1,6 +1,7 @@
 # Unit 1 - Methods of collecting data
 
 # Topics
+```
 - [ ] Understanding Data
 - [] Sources of Data
 - [x] Methods of Collecting Data
